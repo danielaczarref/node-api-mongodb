@@ -1,4 +1,4 @@
-# Node API with MongoDB connection
+# Node REST API with MongoDB connection
 
 The purpose of this API is to obtain and send information from temperature sensors via the "/ sensors" route.
 
