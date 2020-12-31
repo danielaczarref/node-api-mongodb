@@ -16,3 +16,9 @@ To connect to the Mongo database, on my local machine, through Docker, I created
 - Schema: ItemSchema;
 - Collection: Temperature;
 - Database: sensor-db.
+
+## Controller
+../routes/sensors
+
+## Service
+../service/sensorSevice
